@@ -1,0 +1,17 @@
+Target dependency graph (7 targets)
+Expecta in Pods
+FBSnapshotTestCase in Pods
+Specta in Pods
+Expecta+Snapshots in Pods, depends on:
+Expecta in Pods (explicit)
+FBSnapshotTestCase in Pods (explicit)
+Specta in Pods (explicit)
+HUPodTest2 in Pods
+Pods-HUPodTest2_Example in Pods, depends on:
+HUPodTest2 in Pods (explicit)
+Pods-HUPodTest2_Tests in Pods, depends on:
+Expecta in Pods (explicit)
+Expecta+Snapshots in Pods (explicit)
+FBSnapshotTestCase in Pods (explicit)
+Pods-HUPodTest2_Example in Pods (explicit)
+Specta in Pods (explicit)

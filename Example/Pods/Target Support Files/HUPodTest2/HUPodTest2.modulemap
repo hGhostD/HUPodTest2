@@ -1,0 +1,6 @@
+framework module HUPodTest2 {
+  umbrella header "HUPodTest2-umbrella.h"
+
+  export *
+  module * { export * }
+}

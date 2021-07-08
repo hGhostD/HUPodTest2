@@ -1,0 +1,22 @@
+{
+  "name": "HUPodTest2",
+  "version": "0.1.0",
+  "summary": "摘要",
+  "description": "描述",
+  "homepage": "https://github.com/hGhostD/HUPodTest2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hGhostD": "jw.hu@s2icode.com"
+  },
+  "source": {
+    "git": "https://github.com/hGhostD/HUPodTest2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HUPodTest2/Classes/**/*"
+}
